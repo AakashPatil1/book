@@ -1,0 +1,4 @@
+Consider d = {10: 'r', 11: 'b1', 22: 'c3'}
+
+for i in d:
+    print(i)
